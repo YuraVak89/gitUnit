@@ -14,3 +14,5 @@ crated new branch
 commit in NewBranch
 
 merge in branch test
+
+conflict
